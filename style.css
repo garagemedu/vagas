@@ -2,7 +2,8 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-  background-color: #f5e2dc;
+  /* background-color: #f5e2dc; */
+  background-color: #ffffff; 
   margin: 2em;
   padding: 2em;
   font-size: 14px;
